@@ -1,6 +1,6 @@
 const express = require("express");
 const cors = require("cors");
-const { connectDB } = require("./Config/database.js");
+const { connectDB } = require("./config/database.js");
 const foodRouter = require("./Routes/Route.js");
 const userRouter = require("./Routes/UserRoute.js");
 const cartRouter = require("./Routes/CartRoute.js");
