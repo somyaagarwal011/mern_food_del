@@ -70,9 +70,6 @@ const Login = ({ setShowLogin }) => {
         <button type="submit">Login</button>
       </form>
       <div className="login-save">
-        <input type="checkbox"></input>
-        <h5>Remember me</h5>
-        <p>Forgot password?</p>
       </div>
     </div>
   );
