@@ -5,3 +5,5 @@ Implemented cart functionality, allowing users to add items, place orders, and v
 Created a comprehensive admin panel for managing the menu, updating order statuses, and adding new items dynamically.
 Integrated Razorpay payment gateway for seamless online transactions.
 Built both frontend and backend servers to handle user interactions, data management, and secure payment processing.
+
+Video Link: https://shorturl.at/tYVyk
